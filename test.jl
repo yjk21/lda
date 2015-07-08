@@ -1,0 +1,3 @@
+areload()
+
+runTests()
